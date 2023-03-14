@@ -10,21 +10,21 @@ body{
     text-align: center;
 }
 #none{
+	align-content:center;
     box-sizing: border-box;
     background-color: rgb(216, 212, 212);
     padding: 10px 0.5px 10px 0.5px;
-    
 }
-
 #first{
 
     text-align: center;
-    padding: 30px 50px 10px 50px; 
+    padding: 10px 15px 30px 15px; 
+    
 }
 #second{
-    padding: 50px 400px 30px 400px; 
+	padding: 50px 400px 30px 400px;
+  
     text-align: center;
-    
 
 }
 #second, h2{
@@ -41,22 +41,20 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    align-content: center;
     
-}
+    }
 #firstInfirst{
-   
-    border-color: blue;
-    border-style: dashed;
+    display: block;
+    margin-left: 5px;
+    margin-right: auto;
     align-content: center;
     background-color: rgb(255, 255, 255);
-    padding: 10px 50px 10px 50px; 
+    padding: 0px 10px 10px 50px; 
+ }
    
-
-   }
-h3{
+  #lastLine{
+	  align-content:center;
     text-align: center;
-    padding: 1px 250px 50px 250px;
+    
 }
-
-
