@@ -1,0 +1,40 @@
+body{
+    background-color:aliceblue;
+   
+    padding: 15px 0.5px 10px 0.5px; 
+    align-content: center;
+  
+    
+}
+#none{
+    box-sizing: border-box;
+    background-color: rgb(222, 217, 217);
+}
+#first{
+
+    text-align: center;
+    padding: 30px 50px 10px 50px; 
+}
+#second{
+  
+    text-align: center;
+
+}
+.pik{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 10px 50px 10px 50px; 
+}
+#firstInfirst{
+    border-left-width: 40px;
+    border-color: blue;
+    border-style: dashed;
+    align-content: center;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 50px 10px 50px; 
+   
+
+   }
+
